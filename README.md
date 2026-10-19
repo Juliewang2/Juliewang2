@@ -1,6 +1,6 @@
 # Hi, I'm Jiayi 👋
 
-Computer Science student at **INSA Lyon**, interested in machine learning, NLP and backend development.
+Computer Science student at **INSA Lyon**, interested in machine learning, NLP and RAG.
 
 ## 🔭 Currently
 - Working on a code agent project
